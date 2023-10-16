@@ -8,4 +8,4 @@ Here are some ideas to get you started:
 
 - 📫 How to reach me: [linkedin](www.linkedin.com/in/federico-s-a9844b219)
 
-- ⚡ Fun fact: Travelled to all continent except Antarctica
+- ⚡ Fun fact: Travelled to all continents except Antarctica
