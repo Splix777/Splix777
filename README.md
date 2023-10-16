@@ -4,6 +4,6 @@
 
 - 🌱 I’m currently learning SQL. 
 
-- 📫 How to reach me: [linkedin](www.linkedin.com/in/federicosalalois)
+- 📫 How to reach me: Linkedin
 
 - ⚡ Fun fact: Travelled to all continents except Antarctica
