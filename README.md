@@ -2,7 +2,7 @@
 
 - 🔭 I’m currently working on finising the core curriculum at [42Madrid](https://www.42network.org/)!
 
-- 🌱 I’m currently learning SQL. 
+- 🌱 I’m currently learning back end framework with Django. 
 
 - 📫 How to reach me: Linkedin
 
