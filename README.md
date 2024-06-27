@@ -2,8 +2,11 @@
 
 - 🔭 I’m currently working on finising the core curriculum at [42Madrid](https://www.42network.org/)!
 
-- 🌱 I’m currently learning Data Science / AI. 
+- 🌱 I’m currently learning Data Science / Machine Learning.
 
 - 📫 How to reach me: Linkedin
 
 - ⚡ Fun fact: Travelled to all continents except Antarctica
+
+
+Feel free to checkout my latest machine learning projects!
