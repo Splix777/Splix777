@@ -1,8 +1,8 @@
 ### Hi there! 👋 I'm a student at 42 Madrid hoping to get into the field of Software Engineering.
 
-- 🔭 I’m currently working on finising the core curriculum at [42Madrid](https://www.42network.org/)!
+- 🔭 Student at [42Madrid](https://www.42network.org/)!
 
-- 🌱 I’m currently learning Data Science / Machine Learning.
+- 🌱 I’m currently learning Machine Learning / Cybersecurity.
 
 - 📫 How to reach me: Linkedin
 
